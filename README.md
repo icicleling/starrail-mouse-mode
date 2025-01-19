@@ -15,6 +15,8 @@
 后退键：`F` (对话和触发操作)\
 W 键：`W` + `鼠标右键` (键盘 W 键添加了自动奔跑功能)
 
+X 键：在鼠标模式和正常模式之间切换，默认鼠标模式
+
 ## 安装说明
 
 点击前往下载脚本 [Releases](https://github.com/icicleling/starrail-mouse-mode/releases)\

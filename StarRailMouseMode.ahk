@@ -1,6 +1,11 @@
-﻿; version 1.0.0
+﻿; version 1.1.0
 
 #HotIf WinActive("ahk_exe StarRail.exe")
+
+#SuspendExempt
+x:: Suspend
+#SuspendExempt False
+
 XButton1::f
 XButton2:: handleXButton2Down
 XButton2 up:: handleXButton2Up
